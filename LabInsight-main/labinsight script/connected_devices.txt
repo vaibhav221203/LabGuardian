@@ -1,0 +1,11 @@
+Device Type	Device Name	MAC Address	Signal Strength
+Wi-Fi	Galaxy A22 5G0461	AE51DC8D23BA	-56
+Wi-Fi	realme X7 5g	D24ACEB9776D	-64
+Wi-Fi		7A8CB56065DF	-93
+Wi-Fi	Finlec India PVT LTD	788CB55065DF	-93
+Wi-Fi	Finlec India PVT LTD	788CB55065E0	-88
+Wi-Fi	realme X7 Max	D6C29B766AD5	-93
+Wi-Fi	Noor Alam	0E839424B383	-79
+Wi-Fi	Noor Alam	0E839424B382	-77
+Wi-Fi	Galaxy A22 5G0461	AE51DC8D23BA	-56
+Wi-Fi	realme X7 5g	D24ACEB9776D	-64
